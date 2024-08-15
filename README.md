@@ -6,3 +6,5 @@
 <li>⚙️ Worked with API's to create financial apps and private servers for videogames</li>
 <li>🔄 Passionate about Automation</li>
 </ul>
+
+<p>Here is my personal <a href="https://kshakes.github.io/">website!</a></p>
