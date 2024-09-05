@@ -7,4 +7,4 @@
 <li>💰 Interested in financial markets and investing</li>
 </ul>
 
-<p>Here is my personal <a href="https://kshakes.github.io/">website!</a></p>
+<p>Here is my <a href="https://kshakes.github.io/">website!</a></p>
