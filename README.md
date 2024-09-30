@@ -1,5 +1,5 @@
 # 💫 About Me:
-⌨️ Currently work with Python, JavaScript and HTML<br>⚙️ Worked with API's to create financial apps and private servers for videogames<br>🔄 Passionate about Automation<br>💰 Interested in financial markets and investing<br>
+⌨️ Currently work with Python, C#, Java, and full-stack web development! <br>⚙️ Worked with API's to create financial apps and private servers for videogames<br>🔄 Passionate about automation<br>💰 Interested in financial markets and investing<br>
 
 
 ## 🌐 Socials:
